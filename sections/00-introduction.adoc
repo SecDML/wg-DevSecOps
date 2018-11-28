@@ -27,11 +27,17 @@ Organizations today are faced with a number of security management issues, inclu
 
 * spiralling compliance governance costs;
 
+* Faster to market - deployment
+
+* Complex hybrib and cross cloud solutions
+
+* LImited security skills ain DevOps
+
 * global shortage of cyber security professionals, which forces organizations to more efficiently utilize staff;
 
 * the notable disconnect between strategic security and operational security.
 
-All of these factors force an organization to deliver more security "`bang for the buck`".
+All of these factors force an organization to deliver security more effectively and efficiently.
 
 
 === Purpose
